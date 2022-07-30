@@ -1,0 +1,15 @@
+header {
+    display: flex;
+    align-items: center;
+    box-shadow: 0 5px 5px rgba(106, 106, 106, 0.25);;
+    justify-content: center;
+    padding: 20px 0;
+    background-color: #FAF4B7;
+    gap: 5px;
+}
+
+header > h1 {
+    color: #333;
+    letter-spacing: .2rem;
+    font-weight: 300;
+}
