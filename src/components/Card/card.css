@@ -1,0 +1,68 @@
+#card {
+    height: 260px;
+    min-width: 450px;
+    width: 70%;
+    display: flex;
+    border-bottom: 2px solid #F5F5F5;
+    padding-bottom: 40px;    
+}
+
+#shop-img {
+    width: 30%;
+}
+
+#shop-img > img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+#info {
+    padding: 30px;
+    width: 70%;
+}
+
+#info > span {
+    display: flex;
+    align-items: center;
+}
+
+#info > span > p, #info > span > a {
+    font-size: 11px;
+    font-weight: 300;
+}
+
+#info > span > p {
+    max-width: 250px;
+    margin-right: auto;
+    color: #2B283A;
+    letter-spacing: 2px;
+    margin-left: 5px;
+}
+
+#info > span > a {
+    color: #918E9B;
+    margin-left: 12px;
+}
+
+#info > h1 {
+    margin-block: 7px;
+    font-size: 25px;
+    color: #2B283A;
+    font-weight: 700;
+}
+
+#info > h3 {
+    margin-block: 7px;
+    font-size: 11px;
+    color: #2B283A;
+    font-weight: 700;
+}
+
+#info > p {
+    margin-top: 2px;
+    font-size: 11px;
+    line-height: 150%;
+    color: #2B283A;
+}
