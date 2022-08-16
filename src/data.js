@@ -13,7 +13,7 @@ export default [
         googleMapsUrl: "https://www.google.com/maps/place/24+Chicken+F.+Cabahug+Street/@10.3262893,123.9174251,17z/data=!3m1!4b1!4m5!3m4!1s0x33a9995cee191bf9:0xda3be77e98d44f39!8m2!3d10.3262893!4d123.9196138",
         yearFound: "2022",
         description: "24 Chicken offers 10 delicious flavors for korean boneless chicken! Our favorites are Jack Daniels and Spicy BBQ.",
-        imageUrl: "https://scontent.fceb4-1.fna.fbcdn.net/v/t39.30808-6/272048740_469598761202164_2445617321131174215_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=35-n3YLTcqwAX-MDTdT&_nc_ht=scontent.fceb4-1.fna&oh=00_AT_Km2QVq-6Oky0xiLxXPw_gW2hABpochqFsnowKCVbdfQ&oe=62EA498A",
+        imageUrl: "https://scontent.fceb4-1.fna.fbcdn.net/v/t39.30808-6/275730544_2083895011784790_6058368258853052243_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=C7gkayWNh5MAX_wY5St&_nc_ht=scontent.fceb4-1.fna&oh=00_AT-SloV5Pk8dscwKzMhkBhShB-ADZ-jp4YvZidDu6oBc4Q&oe=62FFA2BB",
     },
     {
         nameOfShop: "McDonald's",
